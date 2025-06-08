@@ -2,6 +2,6 @@ Kode ini mengimplementasikan rumus dari Newton-Gregory Forward Diferensiasi atau
 
 #Tugas Kelompok R04 Komputasi Numerik: Diferensiasi Newton Gregory Forward
 
-Hanifah Dwi - 5053241022
-Wulan Septiani - 5053241045
-Fathiya Haya - 5053241047
+1. Hanifah Dwi - 5053241022
+2. Wulan Septiani - 5053241045
+3. Fathiya Haya - 5053241047
